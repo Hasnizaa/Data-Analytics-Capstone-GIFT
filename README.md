@@ -21,3 +21,8 @@ An end-to-end data analytics and predictive modeling pipeline designed to decode
 │   └── Tableau_Customer_Insights.twbx       # Packaged Interactive Workbook
 └── README.md                                # Project Documentation
 ```
+Link:
+
+Codes in colab: https://colab.research.google.com/drive/1pEboqqSxELqYeLUDcm3PchIl7Cp0MGJh?usp=sharing
+
+Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMGMyOTkzMGQtYjdiOC00YzcyLTk4YTEtZjk2YmU2YWNmNjJhIiwidCI6IjdmMDQ4ZmMxLTJlYTMtNDhlNC1hYzkyLTkxZDFlYjA5ODA3YyIsImMiOjEwfQ%3D%3D
